@@ -1,0 +1,13 @@
+{
+  "description": "One achromatic primitive ramp shared by all identities and both modes. Inspired by the user's earlier neutral palette, with revised middle grays and explicit role mapping. Stops remain fixed; semantic roles change with mode.",
+  "order": ["white", "50", "100", "200", "300", "400", "500", "600", "700", "800", "900", "950", "black"],
+  "ramp": {
+    "white": "#ffffff", "50": "#fafafa", "100": "#f5f5f5", "200": "#ededed",
+    "300": "#d6d6d6", "400": "#b8b8b8", "500": "#8a8a8a", "600": "#626262",
+    "700": "#454545", "800": "#2b2b2b", "900": "#202020", "950": "#141414", "black": "#000000"
+  },
+  "roles": {
+    "light": {"body":"50", "surface":"white", "muted":"200", "raised":"white", "text":"950", "secondary":"600", "disabled":"400", "border":"300", "controlBorder":"600"},
+    "dark": {"body":"950", "surface":"900", "muted":"800", "raised":"800", "text":"50", "secondary":"400", "disabled":"600", "border":"700", "controlBorder":"500"}
+  }
+}

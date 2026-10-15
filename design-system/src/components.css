@@ -1,0 +1,13 @@
+/* Import after Astryx CSS. Shared policies for the future website, without showcase layout. */
+.astryx-button[data-variant=primary]:not(:disabled):not([aria-disabled=true]):hover {
+  background-color:var(--sg-hover);background-image:none;color:var(--color-on-accent);
+}
+.astryx-button[data-variant=primary]:not(:disabled):not([aria-disabled=true]):active,
+.astryx-button[data-variant=primary][data-astryx-press=on]:not(:disabled):not([aria-disabled=true]) {
+  background-color:var(--sg-pressed);background-image:none;color:var(--color-on-accent);
+}
+/* Keep end events available for Astryx overlay cleanup, without perceptible motion. */
+@media(prefers-reduced-motion:reduce) {
+  html{scroll-behavior:auto}
+  *,*::before,*::after{animation-duration:0.01ms!important;transition-duration:0.01ms!important;scroll-behavior:auto!important}
+}

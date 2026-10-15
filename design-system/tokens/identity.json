@@ -1,0 +1,4 @@
+{
+  "description": "Logo ink is independent of interface accent colors. Dark mode retains every exact master color. Light variants select a fixed shade from the same brand scale.",
+  "lightLogoStops": {"tech": "600", "miniatures": "600", "design": "900"}
+}

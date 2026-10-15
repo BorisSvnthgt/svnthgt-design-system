@@ -1,0 +1,20 @@
+{
+  "families": [
+    {
+      "seed": "#16803C",
+      "id": "success"
+    },
+    {
+      "seed": "#A65C00",
+      "id": "warning"
+    },
+    {
+      "seed": "#D92D20",
+      "id": "error"
+    },
+    {
+      "seed": "#2563EB",
+      "id": "info"
+    }
+  ]
+}

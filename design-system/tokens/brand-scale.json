@@ -1,0 +1,6 @@
+{
+  "recipe": "svnthgt-brand-tints-shades-v1",
+  "description": "Fixed sRGB tints and shades of each exact identity color. Negative amounts mix with white; positive amounts mix with black. Shades retain the seed's hue and saturation. These are brand-relative steps, not equal perceived lightness across different hues.",
+  "seedStop": 500,
+  "mix": {"50": -0.96, "100": -0.88, "200": -0.70, "300": -0.46, "400": -0.22, "500": 0, "600": 0.18, "700": 0.36, "800": 0.54, "900": 0.72, "950": 0.84}
+}

@@ -1,0 +1,39 @@
+{
+  "version": "0.2.0",
+  "font": {
+    "status": "approved-sora-inter",
+    "body": "'Inter Variable', Inter, system-ui, sans-serif",
+    "heading": "'Sora Variable', Sora, system-ui, sans-serif",
+    "code": "ui-monospace, 'Cascadia Code', Consolas, monospace",
+    "evidence": "User selected Sora headings and Graphie only if on Google Fonts; otherwise Inter. Graphie is distributed by Dharma Type/Adobe Fonts, so Inter is used. Heading weight 700 and body 400/700 follow the user's typography reference. Font files are served locally from pinned Fontsource packages."
+  },
+  "spacing": [0, 2, 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60, 64, 68, 72, 76, 80, 84, 88, 92, 96, 100, 104, 108, 112, 116, 120, 124, 128],
+  "type": {
+    "caption": [12, 16, 400],
+    "supporting": [14, 20, 400],
+    "caption-bold": [12, 16, 700],
+    "supporting-bold": [14, 20, 700],
+    "label": [14, 20, 700],
+    "body": [16, 24, 400],
+    "body-bold": [16, 24, 700],
+    "large": [24, 32, 400],
+    "large-bold": [24, 32, 700],
+    "heading-6": [18, 24, 700],
+    "heading-5": [20, 28, 700],
+    "heading-4": [24, 32, 700],
+    "heading-3": [32, 40, 700],
+    "heading-2": [48, 56, 700],
+    "heading-1": [72, 80, 700],
+    "display-3": [56, 64, 700],
+    "display-2": [64, 72, 700],
+    "display-1": [72, 80, 700],
+    "code": [14, 20, 400]
+  },
+  "actionRadius": 8,
+  "radius": {"none": 0, "inner": 4, "element": 12, "container": 20, "page": 28, "chat": 28, "full": 9998},
+  "control": {"sm": 40, "md": 44, "lg": 48, "touchMinimum": 44},
+  "icon": {"library": "Phosphor", "weight": "regular", "sizes": [16, 20, 24, 32], "defaultSize": 20},
+  "motion": {"fast": 120, "medium": 200, "slow": 320, "ease": "cubic-bezier(0.2, 0, 0, 1)"},
+  "layout": {"contentMax": 1200, "readingMax": "68ch", "gutterMobile": 20, "gutterDesktop": 40, "sectionMobile": 48, "sectionDesktop": 80, "breakpoints": {"sm": 640, "md": 768, "lg": 1024, "xl": 1280}},
+  "zIndex": {"base": 0, "sticky": 10, "popover": 20, "overlay": 30, "dialog": 40, "toast": 50, "tooltip": 60}
+}

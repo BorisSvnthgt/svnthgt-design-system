@@ -1,0 +1,3338 @@
+{
+  "scope": "Token pairs only; browser interactions and whole-page accessibility require separate review.",
+  "checks": 370,
+  "passed": true,
+  "minimum": 4.1,
+  "results": [
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "sidebar selected text",
+      "foreground": "#69148c",
+      "background": "#ecbdff",
+      "ratio": 6.39,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "text/body",
+      "foreground": "#141414",
+      "background": "#fafafa",
+      "ratio": 17.65,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "secondary/body",
+      "foreground": "#626262",
+      "background": "#fafafa",
+      "ratio": 5.84,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "accent/body",
+      "foreground": "#9d1ed1",
+      "background": "#fafafa",
+      "ratio": 5.68,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "control boundary/body",
+      "foreground": "#626262",
+      "background": "#fafafa",
+      "ratio": 5.84,
+      "minimum": 3
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "hover boundary/body",
+      "foreground": "#7a17a3",
+      "background": "#fafafa",
+      "ratio": 8.12,
+      "minimum": 3
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "pressed boundary/body",
+      "foreground": "#581175",
+      "background": "#fafafa",
+      "ratio": 11.48,
+      "minimum": 3
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "text/surface",
+      "foreground": "#141414",
+      "background": "#ffffff",
+      "ratio": 18.42,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "secondary/surface",
+      "foreground": "#626262",
+      "background": "#ffffff",
+      "ratio": 6.1,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "accent/surface",
+      "foreground": "#9d1ed1",
+      "background": "#ffffff",
+      "ratio": 5.93,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "control boundary/surface",
+      "foreground": "#626262",
+      "background": "#ffffff",
+      "ratio": 6.1,
+      "minimum": 3
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "hover boundary/surface",
+      "foreground": "#7a17a3",
+      "background": "#ffffff",
+      "ratio": 8.47,
+      "minimum": 3
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "pressed boundary/surface",
+      "foreground": "#581175",
+      "background": "#ffffff",
+      "ratio": 11.99,
+      "minimum": 3
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "text/muted",
+      "foreground": "#141414",
+      "background": "#ededed",
+      "ratio": 15.74,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "secondary/muted",
+      "foreground": "#626262",
+      "background": "#ededed",
+      "ratio": 5.21,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "accent/muted",
+      "foreground": "#9d1ed1",
+      "background": "#ededed",
+      "ratio": 5.07,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "control boundary/muted",
+      "foreground": "#626262",
+      "background": "#ededed",
+      "ratio": 5.21,
+      "minimum": 3
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "hover boundary/muted",
+      "foreground": "#7a17a3",
+      "background": "#ededed",
+      "ratio": 7.24,
+      "minimum": 3
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "pressed boundary/muted",
+      "foreground": "#581175",
+      "background": "#ededed",
+      "ratio": 10.24,
+      "minimum": 3
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "text/raised",
+      "foreground": "#141414",
+      "background": "#ffffff",
+      "ratio": 18.42,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "secondary/raised",
+      "foreground": "#626262",
+      "background": "#ffffff",
+      "ratio": 6.1,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "accent/raised",
+      "foreground": "#9d1ed1",
+      "background": "#ffffff",
+      "ratio": 5.93,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "control boundary/raised",
+      "foreground": "#626262",
+      "background": "#ffffff",
+      "ratio": 6.1,
+      "minimum": 3
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "hover boundary/raised",
+      "foreground": "#7a17a3",
+      "background": "#ffffff",
+      "ratio": 8.47,
+      "minimum": 3
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "pressed boundary/raised",
+      "foreground": "#581175",
+      "background": "#ffffff",
+      "ratio": 11.99,
+      "minimum": 3
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "button label/accent",
+      "foreground": "#ffffff",
+      "background": "#9d1ed1",
+      "ratio": 5.93,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "button label/hover",
+      "foreground": "#ffffff",
+      "background": "#7a17a3",
+      "ratio": 8.47,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "button label/pressed",
+      "foreground": "#ffffff",
+      "background": "#581175",
+      "ratio": 11.99,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "accent subtle text",
+      "foreground": "#69148c",
+      "background": "#fcf6ff",
+      "ratio": 9.51,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "success text",
+      "foreground": "#00491c",
+      "background": "#dcfae0",
+      "ratio": 9.54,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "success filled",
+      "foreground": "#ffffff",
+      "background": "#00642a",
+      "ratio": 7.35,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "warning text",
+      "foreground": "#5f2b00",
+      "background": "#ffeddf",
+      "ratio": 10.06,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "warning filled",
+      "foreground": "#ffffff",
+      "background": "#7f3e00",
+      "ratio": 8.1,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "error text",
+      "foreground": "#760000",
+      "background": "#ffece8",
+      "ratio": 10.4,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "error filled",
+      "foreground": "#ffffff",
+      "background": "#9f0000",
+      "ratio": 8.49,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "info text",
+      "foreground": "#032e90",
+      "background": "#eaf1ff",
+      "ratio": 10.31,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "light",
+      "name": "info filled",
+      "foreground": "#ffffff",
+      "background": "#1446b5",
+      "ratio": 8.16,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "sidebar selected text",
+      "foreground": "#f2d1ff",
+      "background": "#470e5e",
+      "ratio": 10.28,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "text/body",
+      "foreground": "#fafafa",
+      "background": "#141414",
+      "ratio": 17.65,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "secondary/body",
+      "foreground": "#b8b8b8",
+      "background": "#141414",
+      "ratio": 9.29,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "accent/body",
+      "foreground": "#d56fff",
+      "background": "#141414",
+      "ratio": 6.62,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "control boundary/body",
+      "foreground": "#8a8a8a",
+      "background": "#141414",
+      "ratio": 5.34,
+      "minimum": 3
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "hover boundary/body",
+      "foreground": "#d56fff",
+      "background": "#141414",
+      "ratio": 6.62,
+      "minimum": 3
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "pressed boundary/body",
+      "foreground": "#dc89ff",
+      "background": "#141414",
+      "ratio": 7.95,
+      "minimum": 3
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "text/surface",
+      "foreground": "#fafafa",
+      "background": "#202020",
+      "ratio": 15.61,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "secondary/surface",
+      "foreground": "#b8b8b8",
+      "background": "#202020",
+      "ratio": 8.21,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "accent/surface",
+      "foreground": "#d56fff",
+      "background": "#202020",
+      "ratio": 5.86,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "control boundary/surface",
+      "foreground": "#8a8a8a",
+      "background": "#202020",
+      "ratio": 4.72,
+      "minimum": 3
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "hover boundary/surface",
+      "foreground": "#d56fff",
+      "background": "#202020",
+      "ratio": 5.86,
+      "minimum": 3
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "pressed boundary/surface",
+      "foreground": "#dc89ff",
+      "background": "#202020",
+      "ratio": 7.03,
+      "minimum": 3
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "text/muted",
+      "foreground": "#fafafa",
+      "background": "#2b2b2b",
+      "ratio": 13.57,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "secondary/muted",
+      "foreground": "#b8b8b8",
+      "background": "#2b2b2b",
+      "ratio": 7.14,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "accent/muted",
+      "foreground": "#d56fff",
+      "background": "#2b2b2b",
+      "ratio": 5.09,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "control boundary/muted",
+      "foreground": "#8a8a8a",
+      "background": "#2b2b2b",
+      "ratio": 4.1,
+      "minimum": 3
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "hover boundary/muted",
+      "foreground": "#d56fff",
+      "background": "#2b2b2b",
+      "ratio": 5.09,
+      "minimum": 3
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "pressed boundary/muted",
+      "foreground": "#dc89ff",
+      "background": "#2b2b2b",
+      "ratio": 6.11,
+      "minimum": 3
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "text/raised",
+      "foreground": "#fafafa",
+      "background": "#2b2b2b",
+      "ratio": 13.57,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "secondary/raised",
+      "foreground": "#b8b8b8",
+      "background": "#2b2b2b",
+      "ratio": 7.14,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "accent/raised",
+      "foreground": "#d56fff",
+      "background": "#2b2b2b",
+      "ratio": 5.09,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "control boundary/raised",
+      "foreground": "#8a8a8a",
+      "background": "#2b2b2b",
+      "ratio": 4.1,
+      "minimum": 3
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "hover boundary/raised",
+      "foreground": "#d56fff",
+      "background": "#2b2b2b",
+      "ratio": 5.09,
+      "minimum": 3
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "pressed boundary/raised",
+      "foreground": "#dc89ff",
+      "background": "#2b2b2b",
+      "ratio": 6.11,
+      "minimum": 3
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "button label/accent",
+      "foreground": "#141414",
+      "background": "#d56fff",
+      "ratio": 6.62,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "button label/hover",
+      "foreground": "#141414",
+      "background": "#d56fff",
+      "ratio": 6.62,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "button label/pressed",
+      "foreground": "#141414",
+      "background": "#dc89ff",
+      "ratio": 7.95,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "accent subtle text",
+      "foreground": "#f2d1ff",
+      "background": "#470e5e",
+      "ratio": 10.28,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "success text",
+      "foreground": "#b8e1bf",
+      "background": "#00300e",
+      "ratio": 10.19,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "success filled",
+      "foreground": "#141414",
+      "background": "#a5d5ad",
+      "ratio": 11.16,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "warning text",
+      "foreground": "#ffc89b",
+      "background": "#401900",
+      "ratio": 10.31,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "warning filled",
+      "foreground": "#141414",
+      "background": "#fcb57a",
+      "ratio": 10.55,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "error text",
+      "foreground": "#ffc4ba",
+      "background": "#500000",
+      "ratio": 10.33,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "error filled",
+      "foreground": "#141414",
+      "background": "#ffafa2",
+      "ratio": 10.44,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "info text",
+      "foreground": "#bfd5ff",
+      "background": "#031e5f",
+      "ratio": 10.46,
+      "minimum": 4.5
+    },
+    {
+      "brand": "gaming",
+      "mode": "dark",
+      "name": "info filled",
+      "foreground": "#141414",
+      "background": "#a9c7ff",
+      "ratio": 10.79,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "sidebar selected text",
+      "foreground": "#8c0000",
+      "background": "#ffb3b3",
+      "ratio": 5.84,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "text/body",
+      "foreground": "#141414",
+      "background": "#fafafa",
+      "ratio": 17.65,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "secondary/body",
+      "foreground": "#626262",
+      "background": "#fafafa",
+      "ratio": 5.84,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "accent/body",
+      "foreground": "#d10000",
+      "background": "#fafafa",
+      "ratio": 5.42,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "control boundary/body",
+      "foreground": "#626262",
+      "background": "#fafafa",
+      "ratio": 5.84,
+      "minimum": 3
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "hover boundary/body",
+      "foreground": "#a30000",
+      "background": "#fafafa",
+      "ratio": 7.87,
+      "minimum": 3
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "pressed boundary/body",
+      "foreground": "#750000",
+      "background": "#fafafa",
+      "ratio": 11.46,
+      "minimum": 3
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "text/surface",
+      "foreground": "#141414",
+      "background": "#ffffff",
+      "ratio": 18.42,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "secondary/surface",
+      "foreground": "#626262",
+      "background": "#ffffff",
+      "ratio": 6.1,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "accent/surface",
+      "foreground": "#d10000",
+      "background": "#ffffff",
+      "ratio": 5.66,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "control boundary/surface",
+      "foreground": "#626262",
+      "background": "#ffffff",
+      "ratio": 6.1,
+      "minimum": 3
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "hover boundary/surface",
+      "foreground": "#a30000",
+      "background": "#ffffff",
+      "ratio": 8.21,
+      "minimum": 3
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "pressed boundary/surface",
+      "foreground": "#750000",
+      "background": "#ffffff",
+      "ratio": 11.96,
+      "minimum": 3
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "text/muted",
+      "foreground": "#141414",
+      "background": "#ededed",
+      "ratio": 15.74,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "secondary/muted",
+      "foreground": "#626262",
+      "background": "#ededed",
+      "ratio": 5.21,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "accent/muted",
+      "foreground": "#d10000",
+      "background": "#ededed",
+      "ratio": 4.83,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "control boundary/muted",
+      "foreground": "#626262",
+      "background": "#ededed",
+      "ratio": 5.21,
+      "minimum": 3
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "hover boundary/muted",
+      "foreground": "#a30000",
+      "background": "#ededed",
+      "ratio": 7.01,
+      "minimum": 3
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "pressed boundary/muted",
+      "foreground": "#750000",
+      "background": "#ededed",
+      "ratio": 10.21,
+      "minimum": 3
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "text/raised",
+      "foreground": "#141414",
+      "background": "#ffffff",
+      "ratio": 18.42,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "secondary/raised",
+      "foreground": "#626262",
+      "background": "#ffffff",
+      "ratio": 6.1,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "accent/raised",
+      "foreground": "#d10000",
+      "background": "#ffffff",
+      "ratio": 5.66,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "control boundary/raised",
+      "foreground": "#626262",
+      "background": "#ffffff",
+      "ratio": 6.1,
+      "minimum": 3
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "hover boundary/raised",
+      "foreground": "#a30000",
+      "background": "#ffffff",
+      "ratio": 8.21,
+      "minimum": 3
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "pressed boundary/raised",
+      "foreground": "#750000",
+      "background": "#ffffff",
+      "ratio": 11.96,
+      "minimum": 3
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "button label/accent",
+      "foreground": "#ffffff",
+      "background": "#d10000",
+      "ratio": 5.66,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "button label/hover",
+      "foreground": "#ffffff",
+      "background": "#a30000",
+      "ratio": 8.21,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "button label/pressed",
+      "foreground": "#ffffff",
+      "background": "#750000",
+      "ratio": 11.96,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "accent subtle text",
+      "foreground": "#8c0000",
+      "background": "#fff5f5",
+      "ratio": 9.28,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "success text",
+      "foreground": "#00491c",
+      "background": "#dcfae0",
+      "ratio": 9.54,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "success filled",
+      "foreground": "#ffffff",
+      "background": "#00642a",
+      "ratio": 7.35,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "warning text",
+      "foreground": "#5f2b00",
+      "background": "#ffeddf",
+      "ratio": 10.06,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "warning filled",
+      "foreground": "#ffffff",
+      "background": "#7f3e00",
+      "ratio": 8.1,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "error text",
+      "foreground": "#760000",
+      "background": "#ffece8",
+      "ratio": 10.4,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "error filled",
+      "foreground": "#ffffff",
+      "background": "#9f0000",
+      "ratio": 8.49,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "info text",
+      "foreground": "#032e90",
+      "background": "#eaf1ff",
+      "ratio": 10.31,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "light",
+      "name": "info filled",
+      "foreground": "#ffffff",
+      "background": "#1446b5",
+      "ratio": 8.16,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "sidebar selected text",
+      "foreground": "#ffcaca",
+      "background": "#5e0000",
+      "ratio": 9.86,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "text/body",
+      "foreground": "#fafafa",
+      "background": "#141414",
+      "ratio": 17.65,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "secondary/body",
+      "foreground": "#b8b8b8",
+      "background": "#141414",
+      "ratio": 9.29,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "accent/body",
+      "foreground": "#ff5757",
+      "background": "#141414",
+      "ratio": 5.92,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "control boundary/body",
+      "foreground": "#8a8a8a",
+      "background": "#141414",
+      "ratio": 5.34,
+      "minimum": 3
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "hover boundary/body",
+      "foreground": "#ff5757",
+      "background": "#141414",
+      "ratio": 5.92,
+      "minimum": 3
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "pressed boundary/body",
+      "foreground": "#ff7575",
+      "background": "#141414",
+      "ratio": 7.06,
+      "minimum": 3
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "text/surface",
+      "foreground": "#fafafa",
+      "background": "#202020",
+      "ratio": 15.61,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "secondary/surface",
+      "foreground": "#b8b8b8",
+      "background": "#202020",
+      "ratio": 8.21,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "accent/surface",
+      "foreground": "#ff5757",
+      "background": "#202020",
+      "ratio": 5.24,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "control boundary/surface",
+      "foreground": "#8a8a8a",
+      "background": "#202020",
+      "ratio": 4.72,
+      "minimum": 3
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "hover boundary/surface",
+      "foreground": "#ff5757",
+      "background": "#202020",
+      "ratio": 5.24,
+      "minimum": 3
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "pressed boundary/surface",
+      "foreground": "#ff7575",
+      "background": "#202020",
+      "ratio": 6.25,
+      "minimum": 3
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "text/muted",
+      "foreground": "#fafafa",
+      "background": "#2b2b2b",
+      "ratio": 13.57,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "secondary/muted",
+      "foreground": "#b8b8b8",
+      "background": "#2b2b2b",
+      "ratio": 7.14,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "accent/muted",
+      "foreground": "#ff5757",
+      "background": "#2b2b2b",
+      "ratio": 4.55,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "control boundary/muted",
+      "foreground": "#8a8a8a",
+      "background": "#2b2b2b",
+      "ratio": 4.1,
+      "minimum": 3
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "hover boundary/muted",
+      "foreground": "#ff5757",
+      "background": "#2b2b2b",
+      "ratio": 4.55,
+      "minimum": 3
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "pressed boundary/muted",
+      "foreground": "#ff7575",
+      "background": "#2b2b2b",
+      "ratio": 5.43,
+      "minimum": 3
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "text/raised",
+      "foreground": "#fafafa",
+      "background": "#2b2b2b",
+      "ratio": 13.57,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "secondary/raised",
+      "foreground": "#b8b8b8",
+      "background": "#2b2b2b",
+      "ratio": 7.14,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "accent/raised",
+      "foreground": "#ff5757",
+      "background": "#2b2b2b",
+      "ratio": 4.55,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "control boundary/raised",
+      "foreground": "#8a8a8a",
+      "background": "#2b2b2b",
+      "ratio": 4.1,
+      "minimum": 3
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "hover boundary/raised",
+      "foreground": "#ff5757",
+      "background": "#2b2b2b",
+      "ratio": 4.55,
+      "minimum": 3
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "pressed boundary/raised",
+      "foreground": "#ff7575",
+      "background": "#2b2b2b",
+      "ratio": 5.43,
+      "minimum": 3
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "button label/accent",
+      "foreground": "#141414",
+      "background": "#ff5757",
+      "ratio": 5.92,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "button label/hover",
+      "foreground": "#141414",
+      "background": "#ff5757",
+      "ratio": 5.92,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "button label/pressed",
+      "foreground": "#141414",
+      "background": "#ff7575",
+      "ratio": 7.06,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "accent subtle text",
+      "foreground": "#ffcaca",
+      "background": "#5e0000",
+      "ratio": 9.86,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "success text",
+      "foreground": "#b8e1bf",
+      "background": "#00300e",
+      "ratio": 10.19,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "success filled",
+      "foreground": "#141414",
+      "background": "#a5d5ad",
+      "ratio": 11.16,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "warning text",
+      "foreground": "#ffc89b",
+      "background": "#401900",
+      "ratio": 10.31,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "warning filled",
+      "foreground": "#141414",
+      "background": "#fcb57a",
+      "ratio": 10.55,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "error text",
+      "foreground": "#ffc4ba",
+      "background": "#500000",
+      "ratio": 10.33,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "error filled",
+      "foreground": "#141414",
+      "background": "#ffafa2",
+      "ratio": 10.44,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "info text",
+      "foreground": "#bfd5ff",
+      "background": "#031e5f",
+      "ratio": 10.46,
+      "minimum": 4.5
+    },
+    {
+      "brand": "captures",
+      "mode": "dark",
+      "name": "info filled",
+      "foreground": "#141414",
+      "background": "#a9c7ff",
+      "ratio": 10.79,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "sidebar selected text",
+      "foreground": "#007500",
+      "background": "#b3ffb3",
+      "ratio": 5.04,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "text/body",
+      "foreground": "#141414",
+      "background": "#fafafa",
+      "ratio": 17.65,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "secondary/body",
+      "foreground": "#626262",
+      "background": "#fafafa",
+      "ratio": 5.84,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "accent/body",
+      "foreground": "#007500",
+      "background": "#fafafa",
+      "ratio": 5.68,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "control boundary/body",
+      "foreground": "#626262",
+      "background": "#fafafa",
+      "ratio": 5.84,
+      "minimum": 3
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "hover boundary/body",
+      "foreground": "#007500",
+      "background": "#fafafa",
+      "ratio": 5.68,
+      "minimum": 3
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "pressed boundary/body",
+      "foreground": "#007500",
+      "background": "#fafafa",
+      "ratio": 5.68,
+      "minimum": 3
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "text/surface",
+      "foreground": "#141414",
+      "background": "#ffffff",
+      "ratio": 18.42,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "secondary/surface",
+      "foreground": "#626262",
+      "background": "#ffffff",
+      "ratio": 6.1,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "accent/surface",
+      "foreground": "#007500",
+      "background": "#ffffff",
+      "ratio": 5.92,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "control boundary/surface",
+      "foreground": "#626262",
+      "background": "#ffffff",
+      "ratio": 6.1,
+      "minimum": 3
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "hover boundary/surface",
+      "foreground": "#007500",
+      "background": "#ffffff",
+      "ratio": 5.92,
+      "minimum": 3
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "pressed boundary/surface",
+      "foreground": "#007500",
+      "background": "#ffffff",
+      "ratio": 5.92,
+      "minimum": 3
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "text/muted",
+      "foreground": "#141414",
+      "background": "#ededed",
+      "ratio": 15.74,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "secondary/muted",
+      "foreground": "#626262",
+      "background": "#ededed",
+      "ratio": 5.21,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "accent/muted",
+      "foreground": "#007500",
+      "background": "#ededed",
+      "ratio": 5.06,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "control boundary/muted",
+      "foreground": "#626262",
+      "background": "#ededed",
+      "ratio": 5.21,
+      "minimum": 3
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "hover boundary/muted",
+      "foreground": "#007500",
+      "background": "#ededed",
+      "ratio": 5.06,
+      "minimum": 3
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "pressed boundary/muted",
+      "foreground": "#007500",
+      "background": "#ededed",
+      "ratio": 5.06,
+      "minimum": 3
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "text/raised",
+      "foreground": "#141414",
+      "background": "#ffffff",
+      "ratio": 18.42,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "secondary/raised",
+      "foreground": "#626262",
+      "background": "#ffffff",
+      "ratio": 6.1,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "accent/raised",
+      "foreground": "#007500",
+      "background": "#ffffff",
+      "ratio": 5.92,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "control boundary/raised",
+      "foreground": "#626262",
+      "background": "#ffffff",
+      "ratio": 6.1,
+      "minimum": 3
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "hover boundary/raised",
+      "foreground": "#007500",
+      "background": "#ffffff",
+      "ratio": 5.92,
+      "minimum": 3
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "pressed boundary/raised",
+      "foreground": "#007500",
+      "background": "#ffffff",
+      "ratio": 5.92,
+      "minimum": 3
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "button label/accent",
+      "foreground": "#ffffff",
+      "background": "#007500",
+      "ratio": 5.92,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "button label/hover",
+      "foreground": "#ffffff",
+      "background": "#007500",
+      "ratio": 5.92,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "button label/pressed",
+      "foreground": "#ffffff",
+      "background": "#007500",
+      "ratio": 5.92,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "accent subtle text",
+      "foreground": "#007500",
+      "background": "#f5fff5",
+      "ratio": 5.78,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "success text",
+      "foreground": "#00491c",
+      "background": "#dcfae0",
+      "ratio": 9.54,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "success filled",
+      "foreground": "#ffffff",
+      "background": "#00642a",
+      "ratio": 7.35,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "warning text",
+      "foreground": "#5f2b00",
+      "background": "#ffeddf",
+      "ratio": 10.06,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "warning filled",
+      "foreground": "#ffffff",
+      "background": "#7f3e00",
+      "ratio": 8.1,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "error text",
+      "foreground": "#760000",
+      "background": "#ffece8",
+      "ratio": 10.4,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "error filled",
+      "foreground": "#ffffff",
+      "background": "#9f0000",
+      "ratio": 8.49,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "info text",
+      "foreground": "#032e90",
+      "background": "#eaf1ff",
+      "ratio": 10.31,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "light",
+      "name": "info filled",
+      "foreground": "#ffffff",
+      "background": "#1446b5",
+      "ratio": 8.16,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "sidebar selected text",
+      "foreground": "#caffca",
+      "background": "#005e00",
+      "ratio": 7.18,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "text/body",
+      "foreground": "#fafafa",
+      "background": "#141414",
+      "ratio": 17.65,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "secondary/body",
+      "foreground": "#b8b8b8",
+      "background": "#141414",
+      "ratio": 9.29,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "accent/body",
+      "foreground": "#00ff00",
+      "background": "#141414",
+      "ratio": 13.43,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "control boundary/body",
+      "foreground": "#8a8a8a",
+      "background": "#141414",
+      "ratio": 5.34,
+      "minimum": 3
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "hover boundary/body",
+      "foreground": "#38ff38",
+      "background": "#141414",
+      "ratio": 13.62,
+      "minimum": 3
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "pressed boundary/body",
+      "foreground": "#75ff75",
+      "background": "#141414",
+      "ratio": 14.31,
+      "minimum": 3
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "text/surface",
+      "foreground": "#fafafa",
+      "background": "#202020",
+      "ratio": 15.61,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "secondary/surface",
+      "foreground": "#b8b8b8",
+      "background": "#202020",
+      "ratio": 8.21,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "accent/surface",
+      "foreground": "#00ff00",
+      "background": "#202020",
+      "ratio": 11.87,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "control boundary/surface",
+      "foreground": "#8a8a8a",
+      "background": "#202020",
+      "ratio": 4.72,
+      "minimum": 3
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "hover boundary/surface",
+      "foreground": "#38ff38",
+      "background": "#202020",
+      "ratio": 12.05,
+      "minimum": 3
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "pressed boundary/surface",
+      "foreground": "#75ff75",
+      "background": "#202020",
+      "ratio": 12.66,
+      "minimum": 3
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "text/muted",
+      "foreground": "#fafafa",
+      "background": "#2b2b2b",
+      "ratio": 13.57,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "secondary/muted",
+      "foreground": "#b8b8b8",
+      "background": "#2b2b2b",
+      "ratio": 7.14,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "accent/muted",
+      "foreground": "#00ff00",
+      "background": "#2b2b2b",
+      "ratio": 10.32,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "control boundary/muted",
+      "foreground": "#8a8a8a",
+      "background": "#2b2b2b",
+      "ratio": 4.1,
+      "minimum": 3
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "hover boundary/muted",
+      "foreground": "#38ff38",
+      "background": "#2b2b2b",
+      "ratio": 10.47,
+      "minimum": 3
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "pressed boundary/muted",
+      "foreground": "#75ff75",
+      "background": "#2b2b2b",
+      "ratio": 11,
+      "minimum": 3
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "text/raised",
+      "foreground": "#fafafa",
+      "background": "#2b2b2b",
+      "ratio": 13.57,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "secondary/raised",
+      "foreground": "#b8b8b8",
+      "background": "#2b2b2b",
+      "ratio": 7.14,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "accent/raised",
+      "foreground": "#00ff00",
+      "background": "#2b2b2b",
+      "ratio": 10.32,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "control boundary/raised",
+      "foreground": "#8a8a8a",
+      "background": "#2b2b2b",
+      "ratio": 4.1,
+      "minimum": 3
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "hover boundary/raised",
+      "foreground": "#38ff38",
+      "background": "#2b2b2b",
+      "ratio": 10.47,
+      "minimum": 3
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "pressed boundary/raised",
+      "foreground": "#75ff75",
+      "background": "#2b2b2b",
+      "ratio": 11,
+      "minimum": 3
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "button label/accent",
+      "foreground": "#141414",
+      "background": "#00ff00",
+      "ratio": 13.43,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "button label/hover",
+      "foreground": "#141414",
+      "background": "#38ff38",
+      "ratio": 13.62,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "button label/pressed",
+      "foreground": "#141414",
+      "background": "#75ff75",
+      "ratio": 14.31,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "accent subtle text",
+      "foreground": "#caffca",
+      "background": "#005e00",
+      "ratio": 7.18,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "success text",
+      "foreground": "#b8e1bf",
+      "background": "#00300e",
+      "ratio": 10.19,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "success filled",
+      "foreground": "#141414",
+      "background": "#a5d5ad",
+      "ratio": 11.16,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "warning text",
+      "foreground": "#ffc89b",
+      "background": "#401900",
+      "ratio": 10.31,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "warning filled",
+      "foreground": "#141414",
+      "background": "#fcb57a",
+      "ratio": 10.55,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "error text",
+      "foreground": "#ffc4ba",
+      "background": "#500000",
+      "ratio": 10.33,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "error filled",
+      "foreground": "#141414",
+      "background": "#ffafa2",
+      "ratio": 10.44,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "info text",
+      "foreground": "#bfd5ff",
+      "background": "#031e5f",
+      "ratio": 10.46,
+      "minimum": 4.5
+    },
+    {
+      "brand": "tech",
+      "mode": "dark",
+      "name": "info filled",
+      "foreground": "#141414",
+      "background": "#a9c7ff",
+      "ratio": 10.79,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "sidebar selected text",
+      "foreground": "#757500",
+      "background": "#ffffb3",
+      "ratio": 4.7,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "text/body",
+      "foreground": "#141414",
+      "background": "#fafafa",
+      "ratio": 17.65,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "secondary/body",
+      "foreground": "#626262",
+      "background": "#fafafa",
+      "ratio": 5.84,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "accent/body",
+      "foreground": "#5e5e00",
+      "background": "#fafafa",
+      "ratio": 6.54,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "control boundary/body",
+      "foreground": "#626262",
+      "background": "#fafafa",
+      "ratio": 5.84,
+      "minimum": 3
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "hover boundary/body",
+      "foreground": "#5e5e00",
+      "background": "#fafafa",
+      "ratio": 6.54,
+      "minimum": 3
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "pressed boundary/body",
+      "foreground": "#5e5e00",
+      "background": "#fafafa",
+      "ratio": 6.54,
+      "minimum": 3
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "text/surface",
+      "foreground": "#141414",
+      "background": "#ffffff",
+      "ratio": 18.42,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "secondary/surface",
+      "foreground": "#626262",
+      "background": "#ffffff",
+      "ratio": 6.1,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "accent/surface",
+      "foreground": "#5e5e00",
+      "background": "#ffffff",
+      "ratio": 6.82,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "control boundary/surface",
+      "foreground": "#626262",
+      "background": "#ffffff",
+      "ratio": 6.1,
+      "minimum": 3
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "hover boundary/surface",
+      "foreground": "#5e5e00",
+      "background": "#ffffff",
+      "ratio": 6.82,
+      "minimum": 3
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "pressed boundary/surface",
+      "foreground": "#5e5e00",
+      "background": "#ffffff",
+      "ratio": 6.82,
+      "minimum": 3
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "text/muted",
+      "foreground": "#141414",
+      "background": "#ededed",
+      "ratio": 15.74,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "secondary/muted",
+      "foreground": "#626262",
+      "background": "#ededed",
+      "ratio": 5.21,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "accent/muted",
+      "foreground": "#5e5e00",
+      "background": "#ededed",
+      "ratio": 5.83,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "control boundary/muted",
+      "foreground": "#626262",
+      "background": "#ededed",
+      "ratio": 5.21,
+      "minimum": 3
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "hover boundary/muted",
+      "foreground": "#5e5e00",
+      "background": "#ededed",
+      "ratio": 5.83,
+      "minimum": 3
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "pressed boundary/muted",
+      "foreground": "#5e5e00",
+      "background": "#ededed",
+      "ratio": 5.83,
+      "minimum": 3
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "text/raised",
+      "foreground": "#141414",
+      "background": "#ffffff",
+      "ratio": 18.42,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "secondary/raised",
+      "foreground": "#626262",
+      "background": "#ffffff",
+      "ratio": 6.1,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "accent/raised",
+      "foreground": "#5e5e00",
+      "background": "#ffffff",
+      "ratio": 6.82,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "control boundary/raised",
+      "foreground": "#626262",
+      "background": "#ffffff",
+      "ratio": 6.1,
+      "minimum": 3
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "hover boundary/raised",
+      "foreground": "#5e5e00",
+      "background": "#ffffff",
+      "ratio": 6.82,
+      "minimum": 3
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "pressed boundary/raised",
+      "foreground": "#5e5e00",
+      "background": "#ffffff",
+      "ratio": 6.82,
+      "minimum": 3
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "button label/accent",
+      "foreground": "#ffffff",
+      "background": "#5e5e00",
+      "ratio": 6.82,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "button label/hover",
+      "foreground": "#ffffff",
+      "background": "#5e5e00",
+      "ratio": 6.82,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "button label/pressed",
+      "foreground": "#ffffff",
+      "background": "#5e5e00",
+      "ratio": 6.82,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "accent subtle text",
+      "foreground": "#757500",
+      "background": "#fffff5",
+      "ratio": 4.85,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "success text",
+      "foreground": "#00491c",
+      "background": "#dcfae0",
+      "ratio": 9.54,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "success filled",
+      "foreground": "#ffffff",
+      "background": "#00642a",
+      "ratio": 7.35,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "warning text",
+      "foreground": "#5f2b00",
+      "background": "#ffeddf",
+      "ratio": 10.06,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "warning filled",
+      "foreground": "#ffffff",
+      "background": "#7f3e00",
+      "ratio": 8.1,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "error text",
+      "foreground": "#760000",
+      "background": "#ffece8",
+      "ratio": 10.4,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "error filled",
+      "foreground": "#ffffff",
+      "background": "#9f0000",
+      "ratio": 8.49,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "info text",
+      "foreground": "#032e90",
+      "background": "#eaf1ff",
+      "ratio": 10.31,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "light",
+      "name": "info filled",
+      "foreground": "#ffffff",
+      "background": "#1446b5",
+      "ratio": 8.16,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "sidebar selected text",
+      "foreground": "#ffffca",
+      "background": "#5e5e00",
+      "ratio": 6.63,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "text/body",
+      "foreground": "#fafafa",
+      "background": "#141414",
+      "ratio": 17.65,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "secondary/body",
+      "foreground": "#b8b8b8",
+      "background": "#141414",
+      "ratio": 9.29,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "accent/body",
+      "foreground": "#ffff00",
+      "background": "#141414",
+      "ratio": 17.16,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "control boundary/body",
+      "foreground": "#8a8a8a",
+      "background": "#141414",
+      "ratio": 5.34,
+      "minimum": 3
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "hover boundary/body",
+      "foreground": "#ffff38",
+      "background": "#141414",
+      "ratio": 17.21,
+      "minimum": 3
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "pressed boundary/body",
+      "foreground": "#ffff75",
+      "background": "#141414",
+      "ratio": 17.38,
+      "minimum": 3
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "text/surface",
+      "foreground": "#fafafa",
+      "background": "#202020",
+      "ratio": 15.61,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "secondary/surface",
+      "foreground": "#b8b8b8",
+      "background": "#202020",
+      "ratio": 8.21,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "accent/surface",
+      "foreground": "#ffff00",
+      "background": "#202020",
+      "ratio": 15.17,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "control boundary/surface",
+      "foreground": "#8a8a8a",
+      "background": "#202020",
+      "ratio": 4.72,
+      "minimum": 3
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "hover boundary/surface",
+      "foreground": "#ffff38",
+      "background": "#202020",
+      "ratio": 15.22,
+      "minimum": 3
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "pressed boundary/surface",
+      "foreground": "#ffff75",
+      "background": "#202020",
+      "ratio": 15.37,
+      "minimum": 3
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "text/muted",
+      "foreground": "#fafafa",
+      "background": "#2b2b2b",
+      "ratio": 13.57,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "secondary/muted",
+      "foreground": "#b8b8b8",
+      "background": "#2b2b2b",
+      "ratio": 7.14,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "accent/muted",
+      "foreground": "#ffff00",
+      "background": "#2b2b2b",
+      "ratio": 13.19,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "control boundary/muted",
+      "foreground": "#8a8a8a",
+      "background": "#2b2b2b",
+      "ratio": 4.1,
+      "minimum": 3
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "hover boundary/muted",
+      "foreground": "#ffff38",
+      "background": "#2b2b2b",
+      "ratio": 13.22,
+      "minimum": 3
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "pressed boundary/muted",
+      "foreground": "#ffff75",
+      "background": "#2b2b2b",
+      "ratio": 13.36,
+      "minimum": 3
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "text/raised",
+      "foreground": "#fafafa",
+      "background": "#2b2b2b",
+      "ratio": 13.57,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "secondary/raised",
+      "foreground": "#b8b8b8",
+      "background": "#2b2b2b",
+      "ratio": 7.14,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "accent/raised",
+      "foreground": "#ffff00",
+      "background": "#2b2b2b",
+      "ratio": 13.19,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "control boundary/raised",
+      "foreground": "#8a8a8a",
+      "background": "#2b2b2b",
+      "ratio": 4.1,
+      "minimum": 3
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "hover boundary/raised",
+      "foreground": "#ffff38",
+      "background": "#2b2b2b",
+      "ratio": 13.22,
+      "minimum": 3
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "pressed boundary/raised",
+      "foreground": "#ffff75",
+      "background": "#2b2b2b",
+      "ratio": 13.36,
+      "minimum": 3
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "button label/accent",
+      "foreground": "#141414",
+      "background": "#ffff00",
+      "ratio": 17.16,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "button label/hover",
+      "foreground": "#141414",
+      "background": "#ffff38",
+      "ratio": 17.21,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "button label/pressed",
+      "foreground": "#141414",
+      "background": "#ffff75",
+      "ratio": 17.38,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "accent subtle text",
+      "foreground": "#ffffca",
+      "background": "#5e5e00",
+      "ratio": 6.63,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "success text",
+      "foreground": "#b8e1bf",
+      "background": "#00300e",
+      "ratio": 10.19,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "success filled",
+      "foreground": "#141414",
+      "background": "#a5d5ad",
+      "ratio": 11.16,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "warning text",
+      "foreground": "#ffc89b",
+      "background": "#401900",
+      "ratio": 10.31,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "warning filled",
+      "foreground": "#141414",
+      "background": "#fcb57a",
+      "ratio": 10.55,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "error text",
+      "foreground": "#ffc4ba",
+      "background": "#500000",
+      "ratio": 10.33,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "error filled",
+      "foreground": "#141414",
+      "background": "#ffafa2",
+      "ratio": 10.44,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "info text",
+      "foreground": "#bfd5ff",
+      "background": "#031e5f",
+      "ratio": 10.46,
+      "minimum": 4.5
+    },
+    {
+      "brand": "miniatures",
+      "mode": "dark",
+      "name": "info filled",
+      "foreground": "#141414",
+      "background": "#a9c7ff",
+      "ratio": 10.79,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "sidebar selected text",
+      "foreground": "#454545",
+      "background": "#ededed",
+      "ratio": 8.19,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "text/body",
+      "foreground": "#141414",
+      "background": "#fafafa",
+      "ratio": 17.65,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "secondary/body",
+      "foreground": "#626262",
+      "background": "#fafafa",
+      "ratio": 5.84,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "accent/body",
+      "foreground": "#141414",
+      "background": "#fafafa",
+      "ratio": 17.65,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "control boundary/body",
+      "foreground": "#626262",
+      "background": "#fafafa",
+      "ratio": 5.84,
+      "minimum": 3
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "hover boundary/body",
+      "foreground": "#4f4f4f",
+      "background": "#fafafa",
+      "ratio": 7.85,
+      "minimum": 3
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "pressed boundary/body",
+      "foreground": "#383838",
+      "background": "#fafafa",
+      "ratio": 11.23,
+      "minimum": 3
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "text/surface",
+      "foreground": "#141414",
+      "background": "#ffffff",
+      "ratio": 18.42,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "secondary/surface",
+      "foreground": "#626262",
+      "background": "#ffffff",
+      "ratio": 6.1,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "accent/surface",
+      "foreground": "#141414",
+      "background": "#ffffff",
+      "ratio": 18.42,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "control boundary/surface",
+      "foreground": "#626262",
+      "background": "#ffffff",
+      "ratio": 6.1,
+      "minimum": 3
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "hover boundary/surface",
+      "foreground": "#4f4f4f",
+      "background": "#ffffff",
+      "ratio": 8.19,
+      "minimum": 3
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "pressed boundary/surface",
+      "foreground": "#383838",
+      "background": "#ffffff",
+      "ratio": 11.73,
+      "minimum": 3
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "text/muted",
+      "foreground": "#141414",
+      "background": "#ededed",
+      "ratio": 15.74,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "secondary/muted",
+      "foreground": "#626262",
+      "background": "#ededed",
+      "ratio": 5.21,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "accent/muted",
+      "foreground": "#141414",
+      "background": "#ededed",
+      "ratio": 15.74,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "control boundary/muted",
+      "foreground": "#626262",
+      "background": "#ededed",
+      "ratio": 5.21,
+      "minimum": 3
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "hover boundary/muted",
+      "foreground": "#4f4f4f",
+      "background": "#ededed",
+      "ratio": 7,
+      "minimum": 3
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "pressed boundary/muted",
+      "foreground": "#383838",
+      "background": "#ededed",
+      "ratio": 10.02,
+      "minimum": 3
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "text/raised",
+      "foreground": "#141414",
+      "background": "#ffffff",
+      "ratio": 18.42,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "secondary/raised",
+      "foreground": "#626262",
+      "background": "#ffffff",
+      "ratio": 6.1,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "accent/raised",
+      "foreground": "#141414",
+      "background": "#ffffff",
+      "ratio": 18.42,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "control boundary/raised",
+      "foreground": "#626262",
+      "background": "#ffffff",
+      "ratio": 6.1,
+      "minimum": 3
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "hover boundary/raised",
+      "foreground": "#4f4f4f",
+      "background": "#ffffff",
+      "ratio": 8.19,
+      "minimum": 3
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "pressed boundary/raised",
+      "foreground": "#383838",
+      "background": "#ffffff",
+      "ratio": 11.73,
+      "minimum": 3
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "button label/accent",
+      "foreground": "#ffffff",
+      "background": "#141414",
+      "ratio": 18.42,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "button label/hover",
+      "foreground": "#ffffff",
+      "background": "#4f4f4f",
+      "ratio": 8.19,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "button label/pressed",
+      "foreground": "#ffffff",
+      "background": "#383838",
+      "ratio": 11.73,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "accent subtle text",
+      "foreground": "#454545",
+      "background": "#f5f5f5",
+      "ratio": 8.79,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "success text",
+      "foreground": "#00491c",
+      "background": "#dcfae0",
+      "ratio": 9.54,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "success filled",
+      "foreground": "#ffffff",
+      "background": "#00642a",
+      "ratio": 7.35,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "warning text",
+      "foreground": "#5f2b00",
+      "background": "#ffeddf",
+      "ratio": 10.06,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "warning filled",
+      "foreground": "#ffffff",
+      "background": "#7f3e00",
+      "ratio": 8.1,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "error text",
+      "foreground": "#760000",
+      "background": "#ffece8",
+      "ratio": 10.4,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "error filled",
+      "foreground": "#ffffff",
+      "background": "#9f0000",
+      "ratio": 8.49,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "info text",
+      "foreground": "#032e90",
+      "background": "#eaf1ff",
+      "ratio": 10.31,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "light",
+      "name": "info filled",
+      "foreground": "#ffffff",
+      "background": "#1446b5",
+      "ratio": 8.16,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "sidebar selected text",
+      "foreground": "#e2e2e2",
+      "background": "#2b2b2b",
+      "ratio": 10.93,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "text/body",
+      "foreground": "#fafafa",
+      "background": "#141414",
+      "ratio": 17.65,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "secondary/body",
+      "foreground": "#b8b8b8",
+      "background": "#141414",
+      "ratio": 9.29,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "accent/body",
+      "foreground": "#fafafa",
+      "background": "#141414",
+      "ratio": 17.65,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "control boundary/body",
+      "foreground": "#8a8a8a",
+      "background": "#141414",
+      "ratio": 5.34,
+      "minimum": 3
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "hover boundary/body",
+      "foreground": "#999999",
+      "background": "#141414",
+      "ratio": 6.47,
+      "minimum": 3
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "pressed boundary/body",
+      "foreground": "#b8b8b8",
+      "background": "#141414",
+      "ratio": 9.29,
+      "minimum": 3
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "text/surface",
+      "foreground": "#fafafa",
+      "background": "#202020",
+      "ratio": 15.61,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "secondary/surface",
+      "foreground": "#b8b8b8",
+      "background": "#202020",
+      "ratio": 8.21,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "accent/surface",
+      "foreground": "#fafafa",
+      "background": "#202020",
+      "ratio": 15.61,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "control boundary/surface",
+      "foreground": "#8a8a8a",
+      "background": "#202020",
+      "ratio": 4.72,
+      "minimum": 3
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "hover boundary/surface",
+      "foreground": "#999999",
+      "background": "#202020",
+      "ratio": 5.72,
+      "minimum": 3
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "pressed boundary/surface",
+      "foreground": "#b8b8b8",
+      "background": "#202020",
+      "ratio": 8.21,
+      "minimum": 3
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "text/muted",
+      "foreground": "#fafafa",
+      "background": "#2b2b2b",
+      "ratio": 13.57,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "secondary/muted",
+      "foreground": "#b8b8b8",
+      "background": "#2b2b2b",
+      "ratio": 7.14,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "accent/muted",
+      "foreground": "#fafafa",
+      "background": "#2b2b2b",
+      "ratio": 13.57,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "control boundary/muted",
+      "foreground": "#8a8a8a",
+      "background": "#2b2b2b",
+      "ratio": 4.1,
+      "minimum": 3
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "hover boundary/muted",
+      "foreground": "#999999",
+      "background": "#2b2b2b",
+      "ratio": 4.97,
+      "minimum": 3
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "pressed boundary/muted",
+      "foreground": "#b8b8b8",
+      "background": "#2b2b2b",
+      "ratio": 7.14,
+      "minimum": 3
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "text/raised",
+      "foreground": "#fafafa",
+      "background": "#2b2b2b",
+      "ratio": 13.57,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "secondary/raised",
+      "foreground": "#b8b8b8",
+      "background": "#2b2b2b",
+      "ratio": 7.14,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "accent/raised",
+      "foreground": "#fafafa",
+      "background": "#2b2b2b",
+      "ratio": 13.57,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "control boundary/raised",
+      "foreground": "#8a8a8a",
+      "background": "#2b2b2b",
+      "ratio": 4.1,
+      "minimum": 3
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "hover boundary/raised",
+      "foreground": "#999999",
+      "background": "#2b2b2b",
+      "ratio": 4.97,
+      "minimum": 3
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "pressed boundary/raised",
+      "foreground": "#b8b8b8",
+      "background": "#2b2b2b",
+      "ratio": 7.14,
+      "minimum": 3
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "button label/accent",
+      "foreground": "#141414",
+      "background": "#fafafa",
+      "ratio": 17.65,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "button label/hover",
+      "foreground": "#141414",
+      "background": "#999999",
+      "ratio": 6.47,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "button label/pressed",
+      "foreground": "#141414",
+      "background": "#b8b8b8",
+      "ratio": 9.29,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "accent subtle text",
+      "foreground": "#e2e2e2",
+      "background": "#2b2b2b",
+      "ratio": 10.93,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "success text",
+      "foreground": "#b8e1bf",
+      "background": "#00300e",
+      "ratio": 10.19,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "success filled",
+      "foreground": "#141414",
+      "background": "#a5d5ad",
+      "ratio": 11.16,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "warning text",
+      "foreground": "#ffc89b",
+      "background": "#401900",
+      "ratio": 10.31,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "warning filled",
+      "foreground": "#141414",
+      "background": "#fcb57a",
+      "ratio": 10.55,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "error text",
+      "foreground": "#ffc4ba",
+      "background": "#500000",
+      "ratio": 10.33,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "error filled",
+      "foreground": "#141414",
+      "background": "#ffafa2",
+      "ratio": 10.44,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "info text",
+      "foreground": "#bfd5ff",
+      "background": "#031e5f",
+      "ratio": 10.46,
+      "minimum": 4.5
+    },
+    {
+      "brand": "design",
+      "mode": "dark",
+      "name": "info filled",
+      "foreground": "#141414",
+      "background": "#a9c7ff",
+      "ratio": 10.79,
+      "minimum": 4.5
+    }
+  ]
+}

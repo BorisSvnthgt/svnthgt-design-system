@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "release": "v1",
+  "naming": "svnthgt-{identity}-{asset}-{variant}.{extension}",
+  "backgroundSemantics": "SVG backgrounds, holes and spaces are transparent. PNGs flatten the same complete canvas to black or white; no transparency.",
+  "svgText": "Outlined paths only",
+  "png": {
+    "width": 1080,
+    "height": 1080,
+    "colorSpace": "sRGB"
+  },
+  "identities": [
+    {
+      "id": "gaming",
+      "displayName": "Svnthgt Gaming",
+      "color": "#BF24FF",
+      "symbol": "Face Buttons",
+      "folder": "gaming",
+      "fullLogoViewBox": "0 0 113.34 34.93",
+      "files": {
+        "full": "svg/svnthgt-gaming-full-logo.svg",
+        "mark": "svg/svnthgt-gaming-mark.svg",
+        "instagram": "svg/svnthgt-gaming-instagram-transparent.svg",
+        "instagramBlack": "png/svnthgt-gaming-instagram-black.png",
+        "instagramWhite": "png/svnthgt-gaming-instagram-white.png"
+      }
+    },
+    {
+      "id": "captures",
+      "displayName": "Svnthgt Captures",
+      "color": "#FF0000",
+      "symbol": "Record Dot",
+      "folder": "captures",
+      "fullLogoViewBox": "0 0 116.99 34.93",
+      "files": {
+        "full": "svg/svnthgt-captures-full-logo.svg",
+        "mark": "svg/svnthgt-captures-mark.svg",
+        "instagram": "svg/svnthgt-captures-instagram-transparent.svg",
+        "instagramBlack": "png/svnthgt-captures-instagram-black.png",
+        "instagramWhite": "png/svnthgt-captures-instagram-white.png"
+      }
+    },
+    {
+      "id": "tech",
+      "displayName": "Svnthgt Tech",
+      "color": "#00FF00",
+      "symbol": "Bold Chip",
+      "folder": "tech",
+      "fullLogoViewBox": "0 0 113.34 34.93",
+      "files": {
+        "full": "svg/svnthgt-tech-full-logo.svg",
+        "mark": "svg/svnthgt-tech-mark.svg",
+        "instagram": "svg/svnthgt-tech-instagram-transparent.svg",
+        "instagramBlack": "png/svnthgt-tech-instagram-black.png",
+        "instagramWhite": "png/svnthgt-tech-instagram-white.png"
+      }
+    },
+    {
+      "id": "miniatures",
+      "displayName": "Svnthgt Miniatures",
+      "color": "#FFFF00",
+      "symbol": "Original Brush Dot",
+      "folder": "miniatures",
+      "fullLogoViewBox": "0 0 127.31 34.93",
+      "files": {
+        "full": "svg/svnthgt-miniatures-full-logo.svg",
+        "mark": "svg/svnthgt-miniatures-mark.svg",
+        "instagram": "svg/svnthgt-miniatures-instagram-transparent.svg",
+        "instagramBlack": "png/svnthgt-miniatures-instagram-black.png",
+        "instagramWhite": "png/svnthgt-miniatures-instagram-white.png"
+      }
+    },
+    {
+      "id": "design",
+      "displayName": "Svnthgt Design",
+      "color": "#F9F9F9",
+      "colorUsage": {
+        "onDarkBackground": "#F9F9F9",
+        "onLightBackground": "#000000"
+      },
+      "svgVariantUsage": "Unsuffixed SVGs use soft-white ink for dark surfaces. -dark.svg files use black ink for light surfaces. Both have transparent backgrounds; choose explicitly, not automatically.",
+      "pngVariantUsage": "black/white filenames describe background color, not ink color.",
+      "symbol": "Plain Circle",
+      "folder": "design",
+      "fullLogoViewBox": "0 0 113.34 34.93",
+      "files": {
+        "full": "svg/svnthgt-design-full-logo.svg",
+        "mark": "svg/svnthgt-design-mark.svg",
+        "instagram": "svg/svnthgt-design-instagram-transparent.svg",
+        "fullDark": "svg/svnthgt-design-full-logo-dark.svg",
+        "markDark": "svg/svnthgt-design-mark-dark.svg",
+        "instagramDark": "svg/svnthgt-design-instagram-transparent-dark.svg",
+        "instagramBlack": "png/svnthgt-design-instagram-black.png",
+        "instagramWhite": "png/svnthgt-design-instagram-white.png"
+      }
+    }
+  ]
+}
