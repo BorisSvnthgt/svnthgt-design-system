@@ -30,4 +30,4 @@ npm run build   # Generate, validate, and create a production build
 
 Keep `design-system/` and `identities/` together: the token generator reads the identity manifest and master SVGs from the sibling folder. Dependencies, build output, local screenshots, and exploration files are excluded from version control.
 
-This private repository contains proprietary Svnthgt artwork and project code; no open-source license is granted for them. Third-party packages and fonts retain their own licenses.
+This repository contains proprietary Svnthgt artwork and project code; no open-source license is granted for them. Third-party packages and fonts retain their own licenses.
